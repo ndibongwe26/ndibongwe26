@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ndibongwe26
-- 👀 I’m interested in architecture, storytelling and sunsets. 
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on data visualisation, exploratory data analysis and automation.
 - 📫 How to reach me : by mail on ndivhuwobongwe15@gmail.com
