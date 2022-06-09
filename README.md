@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ndibongwe26
+- 👋 Hi, I’m Ndi.
 - 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on data visualisation, exploratory data analysis and automation.
+- 💞️ I’m looking to collaborate on data visualisation, exploratory data analysis and automation projects.
 - 📫 How to reach me : by mail on ndivhuwobongwe15@gmail.com
 
 <!---
